@@ -82,29 +82,4 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 
 
 
-DSA-Preparation-2026/
-│
-├── Day01_Arrays/
-│   ├── Problem01/
-│   │   └── solution.java
-│   ├── Problem02/
-│   │   └── solution.java
-│   ├── Problem03/
-│   │   └── solution.java
-│   ├── Problem04/
-│   │   └── solution.java
-│   ├── Problem05/
-│   │   └── solution.java
-│   ├── Problem06/
-│   │   └── solution.java
-│   └── Problem07/
-│       └── solution.java
-│
-├── Day02_Arrays/
-├── Day03_Arrays/
-├── Day04_Recursion/
-├── Day05_LinkedList/
-├── Day06_TwoPointers/
-├── Day07_Stack_Queue/
-│
-└── README.md
+
