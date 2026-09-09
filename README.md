@@ -16,8 +16,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 
 ## 🗓️ Preparation Plan
 
-**Duration:** 07 September 2026 – 30 October 2026  
-**Total Duration:** 54 Days  
+**Duration:** 07 September 2026 – 30 October 2026    
 **Language:** Java  
 **Daily Target:** 7 LeetCode Problems
 
