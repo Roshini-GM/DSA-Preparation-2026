@@ -80,7 +80,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 - Merge Sort
 - Quick Sort
 
-## 📂 Repository Structure
+
 
 ```text
 DSA-Preparation-2026/
