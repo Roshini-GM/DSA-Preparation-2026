@@ -82,7 +82,6 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 
 
 
-```text
 DSA-Preparation-2026/
 │
 ├── Day01_Arrays/
