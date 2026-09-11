@@ -11,7 +11,7 @@ public class Solution {
             max=Math.max(max,nums[i]);
             if(max-min[i]<=k){
             return i;
-        }
+            }
         }
      return -1;
     }
