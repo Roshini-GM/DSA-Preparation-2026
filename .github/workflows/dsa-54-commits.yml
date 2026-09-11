@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  generate-commits:
+  create-commits:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,18 +21,20 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Create 54 progress commits
+      - name: Create 54 commits
         run: |
           mkdir -p DailyProgress
 
           for i in $(seq 1 54)
           do
-            printf "# DSA Daily Progress\n\nAutomated maintenance update %02d\n" "$i" \
-              > DailyProgress/update.md
+            echo "# DSA Automated Progress" > DailyProgress/update.md
+            echo "" >> DailyProgress/update.md
+            echo "Automated update: $i" >> DailyProgress/update.md
+            echo "Run time: $(date -u)" >> DailyProgress/update.md
 
             git add DailyProgress/update.md
 
-            git commit -m "chore: automated DSA progress update %02d" "$i"
+            git commit -m "chore: automated DSA progress update $i"
           done
 
           git push origin HEAD:${{ github.ref_name }}
