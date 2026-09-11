@@ -34,7 +34,7 @@ jobs:
 
             git add DailyProgress/update.md
 
-            git commit -m "chore: automated DSA progress update $i"
+            git commit -m "updated program solution.java $i"
           done
 
           git push origin HEAD:${{ github.ref_name }}
