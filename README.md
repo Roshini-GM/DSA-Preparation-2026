@@ -90,6 +90,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
@@ -113,6 +114,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -173,4 +175,20 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
