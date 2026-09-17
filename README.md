@@ -143,4 +143,12 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
