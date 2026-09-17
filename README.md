@@ -88,6 +88,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
@@ -149,6 +150,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
@@ -164,4 +166,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
