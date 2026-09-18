@@ -109,6 +109,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -135,10 +136,12 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
