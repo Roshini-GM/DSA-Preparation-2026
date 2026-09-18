@@ -91,6 +91,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
+| [0275-h-index-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0275-h-index-ii) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
@@ -159,6 +160,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Binary Search
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0875-koko-eating-bananas) |
