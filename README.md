@@ -108,6 +108,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Prefix Sum
 |  |
 | ------- |
