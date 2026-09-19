@@ -97,6 +97,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0454-4sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -124,6 +125,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -189,6 +191,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
