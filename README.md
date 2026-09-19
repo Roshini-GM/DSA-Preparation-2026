@@ -94,6 +94,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
+| [0454-4sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
@@ -121,6 +122,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0242-valid-anagram](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0454-4sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
