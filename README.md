@@ -88,6 +88,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
@@ -124,6 +125,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
@@ -165,6 +167,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
@@ -176,6 +179,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0147-insertion-sort-list) |
 | [0242-valid-anagram](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
