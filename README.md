@@ -179,6 +179,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0242-valid-anagram](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -390,6 +391,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0216-combination-sum-iii) |
+| [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
 ## Algorithm X
 |  |
 | ------- |
@@ -398,4 +400,5 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
