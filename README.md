@@ -173,6 +173,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0093-restore-ip-addresses) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0242-valid-anagram) |
@@ -387,6 +388,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0051-n-queens](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
 |  |
