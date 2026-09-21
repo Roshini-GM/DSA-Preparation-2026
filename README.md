@@ -281,10 +281,12 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
@@ -369,4 +371,12 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0493-reverse-pairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
