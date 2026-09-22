@@ -129,6 +129,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
 ## Queue
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0493-reverse-pairs) |
+| [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
