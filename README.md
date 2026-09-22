@@ -238,6 +238,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0155-min-stack) |
@@ -298,6 +299,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -308,6 +310,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -350,6 +353,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0147-insertion-sort-list) |
 ## Divide and Conquer
 |  |
@@ -407,6 +411,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
