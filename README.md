@@ -204,6 +204,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -304,6 +305,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
@@ -315,6 +317,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
@@ -416,6 +419,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -473,4 +477,5 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 <!---LeetCode Topics End-->
