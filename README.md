@@ -119,6 +119,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0969-pancake-sorting](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1095-find-in-mountain-array) |
@@ -443,6 +444,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0980-unique-paths-iii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0980-unique-paths-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -474,6 +477,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
+| [0980-unique-paths-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0980-unique-paths-iii) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -493,4 +497,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
