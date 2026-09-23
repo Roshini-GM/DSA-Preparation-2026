@@ -104,6 +104,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0454-4sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0523-continuous-subarray-sum) |
@@ -146,6 +147,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0454-4sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0560-subarray-sum-equals-k) |
@@ -441,6 +443,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
@@ -454,6 +457,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
