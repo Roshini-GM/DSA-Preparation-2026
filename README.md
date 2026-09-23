@@ -430,6 +430,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
@@ -441,6 +442,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0052-n-queens-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
