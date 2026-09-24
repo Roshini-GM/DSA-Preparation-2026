@@ -180,6 +180,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0969-pancake-sorting](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -214,6 +215,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0147-insertion-sort-list) |
 | [0242-valid-anagram](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -280,6 +282,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -315,6 +318,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0621-task-scheduler) |
@@ -570,6 +574,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
