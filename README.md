@@ -103,6 +103,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0327-count-of-range-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0327-count-of-range-sum) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0454-4sum-ii) |
 | [0473-matchsticks-to-square](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0473-matchsticks-to-square) |
@@ -215,6 +216,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0242-valid-anagram](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
@@ -242,6 +244,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -313,6 +316,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -520,6 +524,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0980-unique-paths-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1219-path-with-maximum-gold) |
 ## Binary Lifting
