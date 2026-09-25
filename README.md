@@ -432,6 +432,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0328-odd-even-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1669-merge-in-between-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
