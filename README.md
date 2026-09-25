@@ -285,6 +285,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0155-min-stack](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
+| [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
@@ -314,6 +315,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
+| [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -428,6 +430,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0203-remove-linked-list-elements](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
