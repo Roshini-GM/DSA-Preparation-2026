@@ -422,6 +422,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0147-insertion-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
