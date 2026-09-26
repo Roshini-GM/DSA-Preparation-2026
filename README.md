@@ -116,6 +116,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -308,6 +309,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0355-design-twitter](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
 ## Monotonic Stack
@@ -339,6 +341,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0622-design-circular-queue) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
@@ -456,6 +459,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0432-all-oone-data-structure](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1669-merge-in-between-linked-lists) |
 ## Divide and Conquer
