@@ -138,6 +138,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
@@ -169,6 +170,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1079-letter-tile-possibilities](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
