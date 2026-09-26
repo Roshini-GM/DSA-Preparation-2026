@@ -392,6 +392,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Iterator
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0328-odd-even-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1669-merge-in-between-linked-lists) |
@@ -644,4 +646,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0382-linked-list-random-node) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
