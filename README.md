@@ -160,6 +160,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0432-all-oone-data-structure) |
 | [0454-4sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0523-continuous-subarray-sum) |
@@ -306,6 +307,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
 ## Monotonic Stack
@@ -453,6 +455,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1669-merge-in-between-linked-lists) |
 ## Divide and Conquer
@@ -654,4 +657,5 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
