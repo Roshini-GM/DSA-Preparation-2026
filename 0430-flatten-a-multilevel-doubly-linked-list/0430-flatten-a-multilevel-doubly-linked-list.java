@@ -1,0 +1,23 @@
+class Solution {
+    public Node flatten(Node head) {
+        Node curr = head;
+        while (curr != null) {
+            if (curr.child != null) {
+                Node next = curr.next;
+                Node child = flatten(curr.child);
+                curr.next = child;
+                child.prev = curr;
+                curr.child = null;
+                while (curr.next != null) {
+                    curr = curr.next;
+                }
+                curr.next = next;
+                if (next != null) {
+                    next.prev = curr;
+                }
+            }
+            curr = curr.next;
+        }
+        return head;
+    }
+}
