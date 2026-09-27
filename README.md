@@ -342,6 +342,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
@@ -675,6 +676,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0203-remove-linked-list-elements) |
 ## Reservoir Sampling
 |  |
