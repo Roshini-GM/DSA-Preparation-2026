@@ -91,6 +91,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
@@ -336,6 +337,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
@@ -621,6 +623,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0054-spiral-matrix) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0980-unique-paths-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0980-unique-paths-iii) |
