@@ -176,6 +176,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1797-design-authentication-manager](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1797-design-authentication-manager) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
@@ -319,6 +320,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1797-design-authentication-manager) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1669-merge-in-between-linked-lists) |
 | [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1797-design-authentication-manager) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -676,6 +679,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0460-lfu-cache](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1797-design-authentication-manager) |
 ## Bracket Sequences
 |  |
 | ------- |
