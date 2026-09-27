@@ -140,6 +140,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
@@ -317,6 +318,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0622-design-circular-queue) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0707-design-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1669-merge-in-between-linked-lists) |
+| [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -647,6 +651,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -670,6 +675,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0432-all-oone-data-structure](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
