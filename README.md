@@ -144,6 +144,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
@@ -342,6 +343,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0054-spiral-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
