@@ -230,6 +230,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
@@ -311,6 +312,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 ## Design
 |  |
@@ -707,6 +709,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
