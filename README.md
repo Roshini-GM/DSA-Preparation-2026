@@ -137,6 +137,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1219-path-with-maximum-gold](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1470-shuffle-the-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
