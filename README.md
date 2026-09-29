@@ -313,6 +313,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
@@ -328,6 +329,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -416,6 +418,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -442,6 +445,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 ## Greedy
 |  |
@@ -576,6 +580,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -657,6 +662,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## DP on Trees
