@@ -216,6 +216,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
@@ -304,6 +305,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
