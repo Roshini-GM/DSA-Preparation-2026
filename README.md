@@ -231,6 +231,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1079-letter-tile-possibilities) |
@@ -390,6 +391,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 ## Heap (Priority Queue)
@@ -463,6 +465,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0502-ipo](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
 | [0969-pancake-sorting](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0969-pancake-sorting) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Interactive
