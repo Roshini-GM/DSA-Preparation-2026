@@ -223,6 +223,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0071-simplify-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
@@ -273,6 +274,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0055-jump-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
