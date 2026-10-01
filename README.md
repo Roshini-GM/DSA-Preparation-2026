@@ -131,6 +131,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0918-maximum-sum-circular-subarray) |
 | [0969-pancake-sorting](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -284,6 +285,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0473-matchsticks-to-square](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -404,6 +406,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0641-design-circular-deque](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0918-maximum-sum-circular-subarray) |
 | [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 ## Heap (Priority Queue)
 |  |
@@ -428,6 +431,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0918-maximum-sum-circular-subarray) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -547,6 +551,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
