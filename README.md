@@ -142,6 +142,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1219-path-with-maximum-gold](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1470-shuffle-the-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -420,6 +421,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Queue
 |  |
