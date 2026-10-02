@@ -242,6 +242,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0940-distinct-subsequences-ii) |
 | [1079-letter-tile-possibilities](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
@@ -784,6 +785,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
