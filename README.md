@@ -169,6 +169,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0126-word-ladder-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
@@ -476,6 +477,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0133-clone-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -617,6 +619,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0127-word-ladder) |
+| [0133-clone-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0133-clone-graph) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
@@ -731,6 +734,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 ## Eulerian Circuit
 |  |
