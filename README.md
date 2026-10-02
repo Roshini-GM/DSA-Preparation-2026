@@ -238,6 +238,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
@@ -779,4 +780,16 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
