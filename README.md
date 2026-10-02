@@ -240,6 +240,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
+| [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0796-rotate-string) |
@@ -785,13 +786,20 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
