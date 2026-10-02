@@ -166,6 +166,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
@@ -230,6 +231,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
@@ -611,6 +613,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0112-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0126-word-ladder-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
@@ -639,6 +642,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0052-n-queens-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0093-restore-ip-addresses) |
+| [0126-word-ladder-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0216-combination-sum-iii) |
@@ -807,4 +811,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
