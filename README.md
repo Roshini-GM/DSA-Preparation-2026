@@ -179,6 +179,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
@@ -209,6 +210,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -247,6 +249,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
@@ -687,6 +690,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
 | [0473-matchsticks-to-square](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
@@ -826,6 +830,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Z Algorithm
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
@@ -836,6 +841,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 ## Bidirectional Search
 |  |
@@ -846,4 +852,12 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
