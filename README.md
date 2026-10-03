@@ -228,6 +228,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0020-valid-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
@@ -286,6 +287,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0062-unique-paths) |
@@ -334,6 +336,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -790,6 +793,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0020-valid-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
