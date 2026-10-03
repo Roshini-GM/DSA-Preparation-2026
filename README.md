@@ -89,6 +89,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0053-maximum-subarray) |
@@ -165,6 +166,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
