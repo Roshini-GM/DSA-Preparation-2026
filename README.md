@@ -176,6 +176,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0133-clone-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
@@ -242,6 +243,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0126-word-ladder-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
@@ -406,6 +408,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0050-powx-n](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
