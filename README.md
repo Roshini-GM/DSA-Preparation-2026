@@ -490,6 +490,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0096-unique-binary-search-trees](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -509,6 +510,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -655,6 +657,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -671,6 +674,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0096-unique-binary-search-trees](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
