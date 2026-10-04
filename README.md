@@ -263,6 +263,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
@@ -315,6 +316,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0473-matchsticks-to-square](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
+| [0678-valid-parenthesis-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0940-distinct-subsequences-ii) |
@@ -367,6 +369,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
@@ -520,6 +523,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0502-ipo](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0678-valid-parenthesis-string) |
 | [0969-pancake-sorting](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0969-pancake-sorting) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Interactive
@@ -818,6 +822,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0020-valid-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
