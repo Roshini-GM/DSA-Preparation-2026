@@ -95,6 +95,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0053-maximum-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
@@ -284,6 +285,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0169-majority-element) |
@@ -878,4 +880,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
