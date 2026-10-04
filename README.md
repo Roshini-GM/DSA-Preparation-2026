@@ -158,6 +158,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -302,6 +303,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1200-minimum-absolute-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1200-minimum-absolute-difference) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
