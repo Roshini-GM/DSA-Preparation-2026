@@ -145,6 +145,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1095-find-in-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1200-minimum-absolute-difference) |
 | [1219-path-with-maximum-gold](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -298,6 +299,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
+| [1200-minimum-absolute-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1200-minimum-absolute-difference) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
