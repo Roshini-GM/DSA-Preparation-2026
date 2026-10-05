@@ -277,6 +277,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0796-rotate-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0940-distinct-subsequences-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1079-letter-tile-possibilities](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -447,6 +448,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0523-continuous-subarray-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
@@ -923,4 +925,12 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0056-merge-intervals) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
