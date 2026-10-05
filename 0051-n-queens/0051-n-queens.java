@@ -24,12 +24,10 @@ class Solution {
             }
         }
     }
-
     boolean isSafe(int row, int col, int n, char[][] board) {
         for (int i = 0; i < row; i++)
             if (board[i][col] == 'Q')
                 return false;
-
         for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--)
             if (board[i][j] == 'Q')
                 return false;
