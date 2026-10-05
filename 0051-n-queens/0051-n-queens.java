@@ -9,7 +9,6 @@ class Solution {
         solve(0, n, board, ans);
         return ans;
     }
-
     void solve(int row, int n, char[][] board, List<List<String>> ans) {
         if (row == n) {
             List<String> temp = new ArrayList<>();
