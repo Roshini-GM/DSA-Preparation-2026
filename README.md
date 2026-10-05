@@ -127,6 +127,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0641-design-circular-deque) |
@@ -554,6 +555,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0055-jump-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0055-jump-game) |
 | [0502-ipo](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0678-valid-parenthesis-string) |
