@@ -4,7 +4,6 @@ class Solution {
     dfs(n, n, new StringBuilder(), ans);
     return ans;
   }
-
   private void dfs(int l, int r, StringBuilder sb, List<String> ans) {
     if (l == 0 && r == 0) {
       ans.add(sb.toString());
