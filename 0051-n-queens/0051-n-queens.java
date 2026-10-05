@@ -17,13 +17,10 @@ class Solution {
             ans.add(temp);
             return;
         }
-
         for (int col = 0; col < n; col++) {
             if (isSafe(row, col, n, board)) {
                 board[row][col] = 'Q';
-
                 solve(row + 1, n, board, ans);
-
                 board[row][col] = '.';
             }
         }
