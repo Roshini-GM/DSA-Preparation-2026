@@ -12,7 +12,6 @@ class Solution {
     void solve(int row, int n, char[][] board, List<List<String>> ans) {
         if (row == n) {
             List<String> temp = new ArrayList<>();
-
             for (char[] r : board)
                 temp.add(new String(r));
 
