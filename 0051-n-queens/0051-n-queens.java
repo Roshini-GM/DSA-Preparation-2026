@@ -5,7 +5,6 @@ class Solution {
         char[][] board = new char[n][n];
         for (char[] row : board)
             Arrays.fill(row, '.');
-
         solve(0, n, board, ans);
         return ans;
     }
