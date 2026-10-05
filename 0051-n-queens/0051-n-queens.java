@@ -3,7 +3,6 @@ class Solution {
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> ans = new ArrayList<>();
         char[][] board = new char[n][n];
-
         for (char[] row : board)
             Arrays.fill(row, '.');
 
