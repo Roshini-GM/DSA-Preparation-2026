@@ -9,7 +9,6 @@ class Solution {
       ans.add(sb.toString());
       return;
     }
-
     if (l > 0) {
       sb.append("(");
       dfs(l - 1, r, sb, ans);
