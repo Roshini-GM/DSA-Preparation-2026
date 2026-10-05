@@ -14,7 +14,6 @@ class Solution {
             List<String> temp = new ArrayList<>();
             for (char[] r : board)
                 temp.add(new String(r));
-
             ans.add(temp);
             return;
         }
