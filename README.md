@@ -515,6 +515,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -537,6 +538,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -679,6 +681,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -701,6 +704,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
