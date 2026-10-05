@@ -133,6 +133,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0704-binary-search](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -344,6 +345,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0875-koko-eating-bananas) |
