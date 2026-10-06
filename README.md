@@ -29,7 +29,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 - Deletion
 - Searching
 
-### Day 02 – Arrays & Searching
+### Day 02 – Arrays & Strings
 - Basic array problems
 - Two-pointer technique
 - Binary search
