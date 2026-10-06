@@ -99,6 +99,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
@@ -182,6 +183,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0128-longest-consecutive-sequence) |
@@ -519,6 +521,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0096-unique-binary-search-trees](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0113-path-sum-ii) |
@@ -641,6 +644,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0215-kth-largest-element-in-an-array) |
@@ -716,6 +720,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0096-unique-binary-search-trees](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0113-path-sum-ii) |
