@@ -236,6 +236,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0086-partition-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0633-sum-of-square-numbers) |
 | [0969-pancake-sorting](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0969-pancake-sorting) |
@@ -271,6 +272,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0290-word-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
