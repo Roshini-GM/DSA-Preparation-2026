@@ -105,6 +105,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
@@ -298,6 +299,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0147-insertion-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
@@ -473,6 +475,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
@@ -628,6 +631,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0053-maximum-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0493-reverse-pairs) |
@@ -636,6 +640,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
