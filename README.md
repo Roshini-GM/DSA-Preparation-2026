@@ -266,6 +266,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0087-scramble-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0093-restore-ip-addresses) |
+| [0097-interleaving-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0127-word-ladder) |
@@ -350,6 +351,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0091-decode-ways](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0096-unique-binary-search-trees) |
+| [0097-interleaving-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
