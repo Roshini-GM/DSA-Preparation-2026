@@ -340,6 +340,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0062-unique-paths](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0096-unique-binary-search-trees) |
@@ -459,6 +460,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0050-powx-n](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0166-fraction-to-recurring-decimal) |
@@ -787,6 +789,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
