@@ -113,6 +113,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0216-combination-sum-iii) |
@@ -371,6 +372,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0174-dungeon-game) |
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0473-matchsticks-to-square](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
@@ -840,6 +842,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0064-minimum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0980-unique-paths-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0980-unique-paths-iii) |
