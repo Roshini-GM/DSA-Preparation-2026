@@ -111,6 +111,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0215-kth-largest-element-in-an-array) |
@@ -369,6 +370,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0132-palindrome-partitioning-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0473-matchsticks-to-square](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
