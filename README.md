@@ -104,6 +104,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
@@ -358,6 +359,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0115-distinct-subsequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0140-word-break-ii) |
