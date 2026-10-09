@@ -290,6 +290,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0290-word-pattern) |
@@ -962,6 +963,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0796-rotate-string) |
@@ -969,11 +971,13 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
@@ -994,10 +998,12 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -1022,4 +1028,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0912-sort-an-array) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
