@@ -211,6 +211,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0432-all-oone-data-structure) |
 | [0454-4sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0460-lfu-cache) |
@@ -237,6 +238,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -296,6 +298,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0678-valid-parenthesis-string) |
