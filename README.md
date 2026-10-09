@@ -311,6 +311,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -442,6 +443,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1472-design-browser-history) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 ## Design
@@ -613,6 +615,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0969-pancake-sorting](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0969-pancake-sorting) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Interactive
 |  |
 | ------- |
@@ -943,6 +946,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1021-remove-outermost-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
