@@ -317,6 +317,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -967,6 +968,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -974,12 +976,14 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -999,11 +1003,13 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
