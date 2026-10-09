@@ -97,6 +97,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0055-jump-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
@@ -488,6 +489,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
@@ -852,6 +854,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
