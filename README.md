@@ -100,6 +100,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0059-spiral-matrix-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
@@ -273,6 +274,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0022-generate-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0076-minimum-window-substring) |
@@ -490,6 +492,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0054-spiral-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
