@@ -622,6 +622,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1192-critical-connections-in-a-network](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1192-critical-connections-in-a-network) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Iterator
 |  |
@@ -913,6 +914,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | ------- |
 | [0133-clone-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
+| [1192-critical-connections-in-a-network](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1192-critical-connections-in-a-network) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1071,4 +1073,12 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2223-sum-of-scores-of-built-strings) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
