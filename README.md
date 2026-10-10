@@ -304,6 +304,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
@@ -449,6 +450,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0225-implement-stack-using-queues](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
+| [0394-decode-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0678-valid-parenthesis-string) |
@@ -941,6 +943,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0050-powx-n](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Reservoir Sampling
 |  |
