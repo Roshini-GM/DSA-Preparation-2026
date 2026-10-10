@@ -670,6 +670,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0086-partition-list) |
@@ -934,6 +935,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0206-reverse-linked-list) |
