@@ -207,6 +207,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0219-contains-duplicate-ii) |
@@ -256,6 +257,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0086-partition-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
@@ -517,6 +519,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
@@ -1081,4 +1084,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1192-critical-connections-in-a-network) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
