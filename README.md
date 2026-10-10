@@ -325,6 +325,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1392-longest-happy-prefix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -498,6 +499,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0068-text-justification](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
@@ -939,6 +941,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0050-powx-n](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0206-reverse-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Reservoir Sampling
 |  |
 | ------- |
