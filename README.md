@@ -300,6 +300,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0208-implement-trie-prefix-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0290-word-pattern) |
@@ -451,6 +452,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0341-flatten-nested-list-iterator) |
@@ -522,6 +524,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0168-excel-sheet-column-title](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
@@ -952,6 +955,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0050-powx-n](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Reservoir Sampling
