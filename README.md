@@ -511,6 +511,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0068-text-justification](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
+| [1103-distribute-candies-to-people](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1103-distribute-candies-to-people) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
@@ -537,6 +538,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0932-beautiful-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1103-distribute-candies-to-people](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1103-distribute-candies-to-people) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
