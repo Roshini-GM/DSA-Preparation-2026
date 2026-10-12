@@ -102,6 +102,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0064-minimum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -412,6 +413,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0074-search-a-2d-matrix) |
 | [0275-h-index-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0275-h-index-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0327-count-of-range-sum) |
@@ -886,6 +888,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0063-unique-paths-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0212-word-search-ii) |
