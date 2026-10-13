@@ -191,6 +191,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -547,6 +548,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3870-count-commas-in-range) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Queue
 |  |
 | ------- |
