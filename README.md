@@ -185,6 +185,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -864,6 +865,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1219-path-with-maximum-gold) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Algorithm X
 |  |
 | ------- |
@@ -953,6 +955,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [1192-critical-connections-in-a-network](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1192-critical-connections-in-a-network) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2076-process-restricted-friend-requests) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Eulerian Circuit
