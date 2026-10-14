@@ -103,6 +103,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0068-text-justification](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -261,6 +262,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0148-sort-list) |
