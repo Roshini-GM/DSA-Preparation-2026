@@ -951,6 +951,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0133-clone-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [1192-critical-connections-in-a-network](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1192-critical-connections-in-a-network) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2076-process-restricted-friend-requests](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2076-process-restricted-friend-requests) |
 ## Eulerian Circuit
 |  |
@@ -1135,4 +1136,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0952-largest-component-size-by-common-factor) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
