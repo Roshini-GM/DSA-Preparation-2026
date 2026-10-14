@@ -159,6 +159,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0912-sort-an-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0952-largest-component-size-by-common-factor) |
 | [0969-pancake-sorting](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -232,6 +233,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0621-task-scheduler](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0904-fruit-into-baskets) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0952-largest-component-size-by-common-factor) |
 | [1079-letter-tile-possibilities](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1079-letter-tile-possibilities) |
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -541,6 +543,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0523-continuous-subarray-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0952-largest-component-size-by-common-factor) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1103-distribute-candies-to-people) |
@@ -695,6 +698,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0128-longest-consecutive-sequence) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0952-largest-component-size-by-common-factor) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -1119,4 +1123,12 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0334-increasing-triplet-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0952-largest-component-size-by-common-factor) |
+## Prime Factorization
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
