@@ -275,6 +275,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0633-sum-of-square-numbers) |
 | [0969-pancake-sorting](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -325,6 +326,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0678-valid-parenthesis-string) |
