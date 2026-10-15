@@ -275,6 +275,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0295-find-median-from-data-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0633-sum-of-square-numbers) |
 | [0969-pancake-sorting](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0969-pancake-sorting) |
@@ -324,6 +325,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0332-reconstruct-itinerary](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0443-string-compression) |
@@ -415,6 +417,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0152-maximum-product-subarray](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0174-dungeon-game) |
 | [0337-house-robber-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0337-house-robber-iii) |
+| [0392-is-subsequence](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0392-is-subsequence) |
 | [0473-matchsticks-to-square](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0526-beautiful-arrangement) |
 | [0678-valid-parenthesis-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0678-valid-parenthesis-string) |
