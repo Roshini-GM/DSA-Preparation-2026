@@ -248,6 +248,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1797-design-authentication-manager](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1797-design-authentication-manager) |
@@ -363,6 +364,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -394,6 +396,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1200-minimum-absolute-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1200-minimum-absolute-difference) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -719,6 +722,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0621-task-scheduler](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0692-top-k-frequent-words) |
 | [1079-letter-tile-possibilities](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1079-letter-tile-possibilities) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1657-determine-if-two-strings-are-close) |
 ## Union-Find
 |  |
 | ------- |
