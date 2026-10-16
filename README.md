@@ -296,6 +296,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0986-interval-list-intersections](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sweep Line
 |  |
 | ------- |
@@ -769,6 +770,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1669-merge-in-between-linked-lists](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1669-merge-in-between-linked-lists) |
 | [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 | [1797-design-authentication-manager](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1797-design-authentication-manager) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
