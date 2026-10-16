@@ -371,6 +371,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
+| [2390-removing-stars-from-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -513,6 +514,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
+| [2390-removing-stars-from-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 | [2352-equal-row-and-column-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
