@@ -201,6 +201,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
@@ -261,6 +262,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1679-max-number-of-k-sum-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
