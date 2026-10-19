@@ -190,6 +190,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -406,6 +407,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1657-determine-if-two-strings-are-close](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -476,6 +478,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
