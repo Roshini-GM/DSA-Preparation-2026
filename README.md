@@ -205,6 +205,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3886-sum-of-sortable-integers) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
@@ -411,6 +412,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -597,6 +599,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3870-count-commas-in-range) |
+| [3886-sum-of-sortable-integers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3886-sum-of-sortable-integers) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Queue
 |  |
@@ -1203,4 +1206,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
