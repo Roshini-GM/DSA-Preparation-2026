@@ -379,6 +379,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
