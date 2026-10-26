@@ -204,6 +204,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -698,6 +699,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1192-critical-connections-in-a-network](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1192-critical-connections-in-a-network) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Iterator
 |  |
 | ------- |
@@ -752,6 +754,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0952-largest-component-size-by-common-factor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0952-largest-component-size-by-common-factor) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2076-process-restricted-friend-requests](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2076-process-restricted-friend-requests) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -868,6 +871,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1096-brace-expansion-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1096-brace-expansion-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -977,6 +981,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1219-path-with-maximum-gold](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1219-path-with-maximum-gold) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2352-equal-row-and-column-pairs) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
 |  |
 | ------- |
