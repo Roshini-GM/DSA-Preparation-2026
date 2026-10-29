@@ -206,6 +206,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -382,6 +383,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
@@ -677,6 +679,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0703-kth-largest-element-in-a-stream](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -702,6 +705,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1192-critical-connections-in-a-network](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1192-critical-connections-in-a-network) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -810,6 +814,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0932-beautiful-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -827,6 +832,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0493-reverse-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -836,6 +842,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -944,6 +951,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0980-unique-paths-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
