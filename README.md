@@ -384,6 +384,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2223-sum-of-scores-of-built-strings](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -606,6 +607,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1103-distribute-candies-to-people](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1103-distribute-candies-to-people) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
