@@ -206,6 +206,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -959,6 +960,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0784-letter-case-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0980-unique-paths-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
