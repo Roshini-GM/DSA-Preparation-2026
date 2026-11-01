@@ -133,6 +133,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0454-4sum-ii) |
 | [0473-matchsticks-to-square](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0485-max-consecutive-ones) |
@@ -594,6 +595,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0227-basic-calculator-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0932-beautiful-array) |
