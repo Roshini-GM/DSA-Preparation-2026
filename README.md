@@ -387,6 +387,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [3498-reverse-degree-of-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -647,6 +648,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1038,6 +1040,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2076-process-restricted-friend-requests) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1234,4 +1237,8 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3886-sum-of-sortable-integers) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
