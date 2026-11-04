@@ -201,6 +201,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
@@ -273,6 +274,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
@@ -290,6 +292,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -613,6 +617,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1401-circle-and-rectangle-overlapping](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -655,6 +660,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1046-last-stone-weight](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
