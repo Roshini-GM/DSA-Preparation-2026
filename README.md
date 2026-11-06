@@ -198,6 +198,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2352-equal-row-and-column-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -271,6 +272,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [2215-find-the-difference-of-two-arrays](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2352-equal-row-and-column-pairs) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2747-count-zero-request-servers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -292,6 +294,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -427,6 +430,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3886-sum-of-sortable-integers) |
