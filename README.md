@@ -185,6 +185,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1670-design-front-middle-back-queue) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -587,6 +588,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0735-asteroid-collision](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0735-asteroid-collision) |
 | [1103-distribute-candies-to-people](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1103-distribute-candies-to-people) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1929-concatenation-of-array) |
 | [2296-design-a-text-editor](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2296-design-a-text-editor) |
 | [2352-equal-row-and-column-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2352-equal-row-and-column-pairs) |
@@ -663,6 +665,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0973-k-closest-points-to-origin](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -881,6 +884,7 @@ A structured 54-day journey focused on improving Data Structures, Algorithms, pr
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/0493-reverse-pairs) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Roshini-GM/DSA-Preparation-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Treap
 |  |
